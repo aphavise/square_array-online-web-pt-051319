@@ -7,6 +7,6 @@ def square_array(array)
 end
 
 
-# def square_array(array)
-#   array.collect{|value| value**2}
-# end
+def square_array(array)
+   array.collect{|value| value**2}
+end
